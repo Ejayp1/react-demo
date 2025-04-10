@@ -1,0 +1,26 @@
+
+body {  
+  display: flex;  
+  justify-content: center;  
+  align-items: center;  
+  height: 100vh; 
+  margin: 0;
+  background-color: #6b6dc5; 
+}  
+
+.App {  
+  text-align: center;  
+  padding: 20px;  
+  background-color: #000000; 
+  border-radius: 10px;  
+  width: 400px; /* Fixed width for better layout */  
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  
+}  
+
+h1 {  
+  color: #f0f0f0;   
+}  
+
+h2 {  
+  color: #fa0101;  
+}  

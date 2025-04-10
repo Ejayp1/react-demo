@@ -1,0 +1,23 @@
+.poll-option {  
+    display: flex;  
+    align-items: center;  
+    justify-content: space-between;  
+    margin-bottom: 10px;  
+    padding: 10px;  
+    border: 1px solid #ccc;  
+    border-radius: 5px;  
+    background-color: #fff;  
+  }  
+  
+  .poll-option button {  
+    padding: 5px 10px;  
+    background-color: #0861e6;  
+    color: white;  
+    border: none;  
+    border-radius: 3px;  
+    cursor: pointer;  
+  }  
+  
+  .poll-option button:hover {  
+    background-color: #1976D2;  
+  }  
